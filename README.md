@@ -4,6 +4,10 @@
 
 The Expense Tracker is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to manage their income and expenses effectively. It includes features to add, view, and track income and expenses, along with a dashboard to visualize financial data through charts.
 
+
+https://github.com/user-attachments/assets/7d6e3a08-25af-4efb-8891-ff0c5f16467b
+
+
 ## Features
 
 - **Income Component**: Enter and manage your income.
