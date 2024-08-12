@@ -36,8 +36,30 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
    cd expense-tracker
+2. **Install backend dependencies**
+   ```bash
+   cd backend
+   npm install
 
- 2. ** Install backend dependencies**
-    cd backend
-    npm install
+3. **Install frontend dependencies**
+   ```bash
+   cd ../frontend
+   npm install
+
+4. **Set up environment variables**
+   ```bash
+   echo "MONGO_URI=your_mongodb_connection_string" > backend/.env
+5. **Start the backend server**
+   ```bash
+   cd backend
+   npm start
+
+6. **Start the frontend development server**
+   ```bash
+   cd ../frontend
+   npm start
+
+
+
+
   
