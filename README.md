@@ -36,3 +36,8 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
    cd expense-tracker
+
+ 2. ** Install backend dependencies**
+    cd backend
+    npm install
+  
