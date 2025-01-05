@@ -1,4 +1,4 @@
-# Expense Tracker
+# Finance Tracker MERN
 
 ## Overview
 
